@@ -26,7 +26,7 @@ todos os staffs online in-game quando alguém entra na sala de espera.
 ### Requisitos
 - FiveM com QBCore
 - [ox_lib](https://github.com/overextended/ox_lib)
-- [discord-waiting-room connection](https://github.com/PJSMartins/connection) a correr
+- [Connection](https://github.com/PJSMartins/connection)
 
 ### Instalação
 
